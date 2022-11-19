@@ -1,0 +1,5 @@
+chess
+keras
+stockfish
+python-chess~=0.26
+livelossplot==0.3.4
