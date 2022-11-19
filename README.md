@@ -61,3 +61,7 @@ As seen in the image, a large portion of the material is covered by another piec
 
 Fundamentally, this engine does not play the best openings and has poor endgame performance. Openings are well known in chess, so it's easy to tell what is and isn't good practice - from experience, the way the engine plays results in early blunders that certainly weaken it. Furthermore, there is the late game. The engine's performance is also subpar; I suspect that under more rigorous testing and conditions, it will stalemate.
 Another issue is that because the engine does not know the value of some pieces, it occasionally plays them too aggressively for too little reward. This includes putting the queen in perilous situations with little to ensure that she does not capitulate.
+
+## FlowChart
+
+[[/Chess-Tournament-Dartmouth/ChessDiagram-NeelGandhi__.jpg]]
