@@ -1,6 +1,6 @@
 # Chess-Tournament-Dartmouth
 
-This project was develop for chess tournment held at Dartmouth College.
+This project was developed for chess tournment held at Dartmouth College.
 Algorithm was developed using Minmax,Alpha-beta pruning,Quiescence search and stockfish.Training took about 10-12 hours of training to reduce loss function.The project was developed out of curiosity and if you find it help please star the repository.
 
 ## Installation
