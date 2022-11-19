@@ -64,4 +64,5 @@ Another issue is that because the engine does not know the value of some pieces,
 
 ## FlowChart
 
-[[/Chess-Tournament-Dartmouth/ChessDiagram-NeelGandhi__.jpg]]
+![My Image](/Chess-Tournament-Dartmouth/ChessDiagram-NeelGandhi__.jpg)
+
