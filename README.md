@@ -5,7 +5,7 @@ Algorithm was developed using Minmax,Alpha-beta pruning,Quiescence search and st
 
 ## Installation
 ## Libraries
-There are multiple data visualiation,machine learning and chess librarires that could be installed using requirements.txt.
+There are multiple data visualiation,machine learning and chess librarires used in this project that could be installed using requirements.txt.
 
     pip install requirements.txt
 
