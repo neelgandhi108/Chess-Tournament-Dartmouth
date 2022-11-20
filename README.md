@@ -17,6 +17,10 @@ It difficult to install stockfish in windows or mac.For more guidance,follow the
 OR 
 
 Directly use my jupyter notebooks for testing your algorithm against RL algorithm - **Chess_Tournament_Dartmouth_Testing.ipynb**
+
+
+
+
 For generating training data and pickle file - **Chess_Tournament_Dartmouth_Training.ipynb**
 
 
